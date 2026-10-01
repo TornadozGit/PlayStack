@@ -79,8 +79,6 @@ Payouts are handled manually by the app operator. Firebase stores requests and t
 
 ## 🛠️ Optional installation service
 
-**Android: $10 · iOS: $10 · Both platforms: $20**
-
 Includes:
 - Change app name.
 - Change package name / iOS bundle ID.
@@ -93,12 +91,7 @@ Source code purchase and installation service are separate.
 
 ## 🚀 Try PlayStack
 
-**[Download the Android Demo]([DEMO_APK_URL](https://github.com/TornadozGit/PlayStack/releases/download/v1.0.0/app-release.apk))**
-
-**[View Product & Purchase Full Source Code]([PRODUCT_URL](https://weebket.com/product/detail/49/playstack-11-offline-mini-games-rewards-social-challenges-flutter-source-code))**
+**[📥 Download Android Demo](https://github.com/TornadozGit/PlayStack/releases/download/v1.0.0/app-release.apk)**  
+**[🛒 Get Full Source Code on Weeb Market](https://weebket.com/product/detail/49/playstack-11-offline-mini-games-rewards-social-challenges-flutter-source-code)**
 
 This repository contains the demo and promotional assets. The full Flutter source code is sold separately on Weeb Market.
-
-## 💬 Contact
-
-[Telegram — Ibrahim Odeh](https://t.me/Ibrahim_Odeh)
