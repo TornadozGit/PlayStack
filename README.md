@@ -6,8 +6,8 @@
 
 Build your own games app with **PlayStack** — a colorful Flutter project combining 11 offline mini games, player progression, and social challenges.
 
-**[📥 Download Android Demo](DEMO_APK_URL)**  
-**[🛒 Get Full Source Code on Weeb Market](PRODUCT_URL)**
+**[📥 Download Android Demo]([DEMO_APK_URL](https://github.com/TornadozGit/PlayStack/releases/download/v1.0.0/app-release.apk))**  
+**[🛒 Get Full Source Code on Weeb Market]([PRODUCT_URL](https://weebket.com/product/detail/49/playstack-11-offline-mini-games-rewards-social-challenges-flutter-source-code))**
 
 ---
 
@@ -93,9 +93,9 @@ Source code purchase and installation service are separate.
 
 ## 🚀 Try PlayStack
 
-**[Download the Android Demo](DEMO_APK_URL)**
+**[Download the Android Demo]([DEMO_APK_URL](https://github.com/TornadozGit/PlayStack/releases/download/v1.0.0/app-release.apk))**
 
-**[View Product & Purchase Full Source Code](PRODUCT_URL)**
+**[View Product & Purchase Full Source Code]([PRODUCT_URL](https://weebket.com/product/detail/49/playstack-11-offline-mini-games-rewards-social-challenges-flutter-source-code))**
 
 This repository contains the demo and promotional assets. The full Flutter source code is sold separately on Weeb Market.
 
